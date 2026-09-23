@@ -313,7 +313,8 @@ tag_archive:
   type: liquid
   path: /tags/
 github:
-  - 
+
+# HTML Compression
 compress_html:
   clippings: all
   ignore:
