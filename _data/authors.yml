@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
+Junteng Liu:
+  name        : "Junteng Liu"
+  uri         : "https://beetwain.github.io/LJT-Homepage"
+  email       : "jliugi@connect.ust.hk"
+  bio         : "I am a first-year PhD candidate at the Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He. My research focuses on natural language processing (NLP) and machine learning (ML), with a particular interest in the training and evaluation of large language models."
+  avatar      : "profile.png"
+  twitter     : "junteng88716710"
   google_plus : "Name"
